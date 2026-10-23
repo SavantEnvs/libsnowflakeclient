@@ -1,0 +1,5 @@
+[default]
+account = "myacct"
+user = "me"
+password = "pw"
+warehouse = "wh"

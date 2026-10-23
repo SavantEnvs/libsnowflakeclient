@@ -1,0 +1,9 @@
+project: savantenvs/libsnowflakeclient
+target: fuzz_sfurl
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_sfurl/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_sfurl
+    libfuzzer: true
+    timeout: 30

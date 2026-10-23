@@ -1,0 +1,9 @@
+project: savantenvs/libsnowflakeclient
+target: fuzz_query_context_cache
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_query_context_cache/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_query_context_cache
+    libfuzzer: true
+    timeout: 30

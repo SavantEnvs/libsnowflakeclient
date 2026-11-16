@@ -1,0 +1,1 @@
+{"rowtype":[{"name":"N","type":"timestamp_ntz","scale":9,"nullable":true},{"name":"L","type":"timestamp_ltz","scale":3,"nullable":true},{"name":"Z","type":"timestamp_tz","scale":6,"nullable":true}],"rowset":[["1546391045.123456789","1546391045.123","1546391045.123456 1980"],["-1.000000000","0.000","0.000000 1440"]]}

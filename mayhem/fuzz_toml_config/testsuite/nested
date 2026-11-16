@@ -1,0 +1,5 @@
+[default]
+account = "a"
+[default.sub]
+x = [1,2,{y=3}]
+z = 1979-05-27T07:32:00Z

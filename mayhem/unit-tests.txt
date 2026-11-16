@@ -1,0 +1,34 @@
+# Upstream cmocka unit tests (targets in tests/CMakeLists.txt) that mayhem/build.sh builds and
+# mayhem/test.sh runs. These are the ones that need no Snowflake account and no network; one per line.
+test_unit_base64
+test_unit_sfurl
+test_unit_query_context_cache
+test_unit_proxy
+test_toml_config
+test_unit_logger
+test_unit_jwt
+test_unit_oauth
+test_unit_external_browser
+test_unit_cipher_stream_buf
+test_unit_cred_renew
+test_unit_encryption
+test_unit_file_metadata_init
+test_unit_download_filename
+test_unit_file_type_detect
+test_unit_azure_client
+test_unit_connect
+test_unit_mfa_auth
+test_unit_ocsp_cache
+test_unit_ocsp_defaults
+test_unit_pat
+test_unit_platform
+test_unit_privatelink
+test_unit_put_get_gcs
+test_unit_secure_storage_linux
+test_unit_set_get_attributes
+test_unit_snowflake_types_to_string
+test_unit_spcs_token
+test_unit_stream_splitter
+test_util
+test_unit_put_retry
+test_unit_token_cache_key

@@ -1,0 +1,1 @@
+{"rowtype":[{"name":"C1","type":"fixed","precision":38,"scale":0,"nullable":false,"length":null,"byteLength":null},{"name":"C2","type":"text","precision":null,"scale":null,"nullable":true,"length":16777216,"byteLength":16777216}],"rowset":[["1","abc"],["2",null],["-9223372036854775808","x y"]]}

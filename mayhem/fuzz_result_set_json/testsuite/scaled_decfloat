@@ -1,0 +1,1 @@
+{"rowtype":[{"name":"F","type":"fixed","precision":10,"scale":2,"nullable":true},{"name":"DF","type":"decfloat","nullable":true}],"rowset":[["12345678.90","1.23E+40"],["-0.01","0"]]}

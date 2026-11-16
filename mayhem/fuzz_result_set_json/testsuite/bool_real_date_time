@@ -1,0 +1,1 @@
+{"rowtype":[{"name":"B","type":"boolean","nullable":true},{"name":"R","type":"real","nullable":true},{"name":"D","type":"date","nullable":true},{"name":"T","type":"time","scale":9,"nullable":true}],"rowset":[["1","1.5e10","18262","43200.123456789"],["0","NaN","-1","0.000000000"],[null,"inf",null,null]]}

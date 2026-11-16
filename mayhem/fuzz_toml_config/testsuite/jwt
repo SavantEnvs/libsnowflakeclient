@@ -1,0 +1,7 @@
+[default]
+account = "a"
+host = "h.example.com"
+port = 443
+protocol = "https"
+authenticator = "snowflake_jwt"
+private_key_file = "/k.p8"

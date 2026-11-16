@@ -1,0 +1,1 @@
+{"rowtype":[{"name":"V","type":"variant","nullable":true},{"name":"O","type":"object","nullable":true},{"name":"A","type":"array","nullable":true},{"name":"X","type":"binary","length":8,"byteLength":8,"nullable":true}],"rowset":[["{\"a\":1}","{}","[1,2]","48656C6C6F"]]}
